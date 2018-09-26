@@ -1,0 +1,44 @@
+.controls{
+    color: #fac07c !important;
+}
+.jR3DCarouselGalleryCustomeTemplate{
+    padding: 60px;
+    box-shadow: 0 0 14px 2px #fac07c inset;
+    border-radius: 5px;
+}
+.product-info>h5 a{
+    font-size: 20px !important;
+}
+.details li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.params span{
+    font-weight: bold;
+}
+.params h6{
+    font-size: 13px;
+}
+.single-share{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    margin-right: 5px;
+    color: #fff;
+    border: 1px solid #fac07c;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease ;
+    -ms-transition: all .5s ease ;
+    -o-transition: all .5s ease ;
+    transition: all .5s ease ;
+}
+.single-share:hover{
+    text-decoration: none;
+    color: #fff;
+    background: #fac07c;
+    border-color: #fff;
+}
